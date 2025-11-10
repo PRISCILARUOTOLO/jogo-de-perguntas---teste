@@ -9,5 +9,6 @@ if primeira == "Gruta" or primeira == "Moss":
 else:
     print("Errado! Você não acertou")
        
-
+bom diaaaa 
+aqui podemos colar nosso cógigo
 
